@@ -1,6 +1,6 @@
 MC AdBot
 
-Made By 10io
+Made By 10io and dishao荻少 
 
 nobody maintains this project hh :)
 
